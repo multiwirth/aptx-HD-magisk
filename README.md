@@ -2,7 +2,6 @@
 
 **Only for armv7 devices**
 Tested on LineageOS 15.1, 16, 17.1
-Confirm working on Samsung Galaxy S3 Neo, HTC One M8/M7 Samsung Galaxy S3 i9300, Nvidia Shield Tablet
 
 **For arm64 please use another module since this is missing libs for lib64 and vendor**
 
