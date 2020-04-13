@@ -18,3 +18,7 @@ This module was tested on following devices:
 - HTC One M8
 - HTC One M7
 
+## Visit my xda thread
+https://forum.xda-developers.com/apps/magisk/module-aptx-hd-legacy-devices-armv7-t4081693
+@multiwirth
+
