@@ -1,4 +1,4 @@
-# APTX for Android Oreo and newer
+# APTX for Android Oreo and newer on armv7 architecture
 
 **Only for armv7 devices**
 Tested on LineageOS 15.1, 16, 17.1
