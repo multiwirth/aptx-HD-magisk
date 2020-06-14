@@ -1,6 +1,6 @@
 id=aptx-magisk-module-armv7
 name=APTX(HD) for Android 8+ (LineageOS) [armv7]
-version=v1
+version=1.0
 versionCode=1
 author=multiwirth
 description=Add aptx/aptx-HD to armv7 based devices running at least android oreo
