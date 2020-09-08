@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     APTX finally for armv7    "
+  ui_print "  APTX finally for Android 10  "
   ui_print "*******************************"
 }
 
@@ -137,7 +137,7 @@ on_install() {
   fi
 
   if [ $ARCH != "arm" ]; then
-    abort "Only support armv7 devices"
+    abort "Only support arm devices"
   fi
 
   ui_print "- Extracting module files"
