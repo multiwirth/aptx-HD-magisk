@@ -1,6 +1,6 @@
 # APTX for Android Oreo up to Android 10
 
-A magisk module to add aptx(HD) on any device running android 8 or newer. Please keep in mind this was only tested for Android 10 (LineageOS 17.1) for arm64, so let me know if it works in oreo&pie on my xda thread.
+A magisk module to add aptx(HD) on any device running android 8 or newer. Please keep in mind that I only tested the arm64 compatibility on Android 10 (LineageOS 17.1), so let me know on my xda thread if it works in the arm64 version of oreo&pie too.
 
 ## Requirements
 - Android 8 and up
