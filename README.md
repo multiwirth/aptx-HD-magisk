@@ -14,6 +14,7 @@ This module was tested on following devices:
 - HTC One M7  (lineage-16.0-17.1-18.1)
 - Nvidia Shield Tablet  (lineage-15.1)
 - HTC One M9  (lineage-17.1-18.0)
+- Samsung Tab Pro 8.4 (lineage-18.1)
 
 ## User reported compatibility list
 - Samsung Galaxy S6 (lineage-17.1)
