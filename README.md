@@ -10,11 +10,13 @@ A magisk module to add aptx(HD) on any device running android 8 or newer. Please
 This module was tested on following devices:
 - Samsung Galaxy S3 Neo (lineage-16.0-17.1)
 - Samsung Galaxy S3 i9300 (lineage-16.0-17.1)
-- HTC One M8  (lineage-16.0-17.1-18.0)
+- HTC One M8  (lineage-16.0-17.1-18.1)
 - HTC One M7  (lineage-16.0-17.1-18.1)
 - Nvidia Shield Tablet  (lineage-15.1)
-- HTC One M9  (lineage-17.1-18.0)
+- HTC One M9  (lineage-17.1-18.1)
 - Samsung Tab Pro 8.4 (lineage-18.1)
+- Sony Xperia Z1 compact (lineage-17.1-18.1)
+- Sony Xperia Z3 compact (lineage-18.1)
 
 ## User reported compatibility list
 - Samsung Galaxy S6 (lineage-17.1)
