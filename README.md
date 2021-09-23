@@ -20,6 +20,7 @@ This module was tested on following devices:
 - Samsung Galaxy S6 (lineage-17.1)
 - Alldocube X Neo tablet (stock pie)
 - Lenovo Tab4 10 Plus (stock ??)
+- Blackview BV9900 Pro (stock 10 BV9900Pro_EEA_S900AA_V1.0_20201105V07)
 
 ## Visit my xda thread
 https://forum.xda-developers.com/apps/magisk/module-aptx-hd-legacy-devices-armv7-t4081693
