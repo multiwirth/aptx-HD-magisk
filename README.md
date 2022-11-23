@@ -1,4 +1,4 @@
-# APTX for Android Oreo up to Android 11 "R"
+# APTX for Android Oreo up to Android 12 "S"
 
 A magisk module to add aptx(HD) on any device running android 8 or newer. Please keep in mind that I only tested the arm64 compatibility on Android 10 and 11 (LineageOS 17.1 and 18.0), so let me know on my xda thread if it works on the arm64 version of oreo&pie too.
 
