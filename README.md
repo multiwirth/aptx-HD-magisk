@@ -20,6 +20,7 @@ This module was tested on following devices:
 - Sony Xperia Z5 compact (lineage-18.1-19.1)
 - Sony Xperia XZ1 compact (lineage-19.1)
 - Nintendo Switch (icosa) (lineage-17.1/Switchroot)
+- Samsung Galaxy Tab S5e wifi (lineage-20.0)
 
 ## User reported compatibility list
 - Samsung Galaxy S6 (lineage-17.1)
